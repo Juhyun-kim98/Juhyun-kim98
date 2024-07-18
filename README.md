@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juhyun-kim98
-- 👀 I’m interested in Deep learning and NLP
-- 🌱 I’m currently learning BERT of NLP
+- 👀 I’m interested in Deep learning and Computer Vison
+- 🌱 I’m currently learning 3D reconstruction based skin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
